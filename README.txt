@@ -1,3 +1,6 @@
+https://maxsite.org/page/how-to-put-your-project-on-github-com
+
+
 var url = 'http://mobile.twcompany.ru/test.php'
 
 axios.post(url)
